@@ -1,0 +1,40 @@
+* {
+	background-color: #20ff01;
+	text-align: center;
+	font-family: Verdana;
+
+
+}
+.game {
+    height: 100px;
+    width: 100px;
+    background-color: #4ECDC4;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 4em;
+    border:dashed;
+
+}
+h1  {
+	
+
+}
+h2  {
+	
+
+}
+h3:hover {    
+	color: :#cc0000;
+
+}
+#result {
+	height: 100px;
+	width:500px;
+	background-color: gray;
+	border: solid;
+	text-align: center;
+	font-size: 2em;
+	display: inline-block;
+	font-family: cursive;
+
+}
